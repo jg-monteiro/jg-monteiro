@@ -90,9 +90,7 @@
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-monteiro&theme=dark&hide_border=true&layout=compact" align="center" />
 </div>
 
-<div align="center"></div>  
-
-<div align="center"></div>  
+![github contribution grid snake animation](https://raw.githubusercontent.com/jg-monteiro/jg-monteiro/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/jg-monteiro/jg-monteiro/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <br/>  
   
