@@ -16,7 +16,7 @@
 
 
 ## My Skill Set  
-<div align="">
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 
@@ -67,7 +67,7 @@
 
 
 ## Connect with me  
-<div align="">
+<div align="center">
 <a href="https://github.com/jg-monteiro" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -85,7 +85,7 @@
 
 ## Github Stats  
 
-<div align="">
+<div align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=jg-monteiro&theme=dark&show_icons=true&count_private=true&hide_border=true" align="center" />
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-monteiro&theme=dark&hide_border=true&layout=compact" align="center" />
 </div>
